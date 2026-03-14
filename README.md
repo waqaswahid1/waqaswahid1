@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working as <br>Full Stack Blockchain Developer - building custom Morpho VaultV2 adapters integrating RWA tokenization with DeFi yield strategies, blockchain indexers, and RWA marketplace applications on Base.<br>👯 I'm looking to collaborate on<br>DeFi protocols, smart contract development (EVM & SVM), Web3 applications, and innovative blockchain solutions involving lending/borrowing, NFTs, or RWA tokenization.<br>🤝 I'm looking for help with<br>Exploring advanced Defi strategies and RWA tokenization onchain assets mangement with lending and earn features in DeFi applications.<br>🌱 I'm currently learning<br>Advanced Rust for Solana development, smart contract security auditing, and Defi tokenization solutions.<br>💬 Ask me about<br>Solidity, Rust, Hardhat, Foundry, DeFi protocols (Compound, Morpho, Uniswap, AAVE), NFT collateralization, blockchain indexing, Node.js/NestJS backend development, and building production-ready dApps.<br>⚡ Fun fact<br>I've built smart contracts for everything from gaming tokens, tokenized assets,  staking, NFT markets, lending/borrowing protocols to fashion week Phygital NFTs in New York.
 
 
